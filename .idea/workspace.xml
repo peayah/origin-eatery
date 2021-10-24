@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c180e614-4b83-498b-96ac-aa22b6791dfe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/AboutPageComponents/Kitchen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutPageComponents/Kitchen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutPageComponents/Vendors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutPageComponents/Vendors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactPageComponents/ContactInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactPageComponents/ContactInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomePageComponents/Gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePageComponents/Gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomePageComponents/QuickInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePageComponents/QuickInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MenuPageComponents/Desserts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MenuPageComponents/Desserts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MenuPageComponents/MainDishes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MenuPageComponents/MainDishes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MenuPageComponents/Starters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MenuPageComponents/Starters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/globals/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/globals/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/globals/navbar/NavbarIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/globals/navbar/NavbarIcons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/menu.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634940383964</updated>
       <workItem from="1634940390348" duration="18323000" />
-      <workItem from="1635058209858" duration="239000" />
+      <workItem from="1635058209858" duration="1076000" />
     </task>
     <servers />
   </component>

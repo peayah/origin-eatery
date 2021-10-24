@@ -8,7 +8,7 @@ import Kitchen from "../components/AboutPageComponents/Kitchen";
 
 const AboutPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Home" keywords={[`Dairy free dining`, `glutenfree dining`, `organic food`]} />
     <PageHeader img={img}>
       <Banner title="about us" subtitle="a peak behind the scenes" />
     </PageHeader>
